@@ -1,0 +1,23 @@
+{
+  "RECORDS": [
+    {
+      "ID": 32,
+      "Type": 0,
+      "CompanyTitle": "Test Unvan",
+      "Name": "Test Ad",
+      "LastName": "Test Soyad",
+      "Phone": "5554443311",
+      "Email": "test@test.com",      
+      "IdentificationNumber": "55544404445",
+      "TaxAdministration": null,
+      "TaxNumber": null,
+      "Password": null,
+      "CityCode": 16,
+      "DistrictCode": null,
+      "Address": "Test Adres Detay",
+      "Status": null,
+      "UpdateDate": "24/2/2023 12:51:40",
+      "CreateDate": "24/2/2023 12:51:40"
+    }
+  ]
+}

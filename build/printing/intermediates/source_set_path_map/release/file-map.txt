@@ -1,0 +1,12 @@
+net.nfet.flutter.printing-jetified-window-java-1.0.0-beta04-0 /Users/kemalceliktas/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+net.nfet.flutter.printing-core-1.6.0-1 /Users/kemalceliktas/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res
+net.nfet.flutter.printing-jetified-annotation-experimental-1.1.0-2 /Users/kemalceliktas/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+net.nfet.flutter.printing-jetified-window-1.0.0-beta04-3 /Users/kemalceliktas/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+net.nfet.flutter.printing-main-4 /Users/kemalceliktas/.pub-cache/hosted/pub.dev/printing-5.9.3/android/src/main/res
+net.nfet.flutter.printing-release-5 /Users/kemalceliktas/.pub-cache/hosted/pub.dev/printing-5.9.3/android/src/release/res
+net.nfet.flutter.printing-pngs-6 /Users/kemalceliktas/Desktop/FlutterNewVersion/erp_project/build/printing/generated/res/pngs/release
+net.nfet.flutter.printing-resValues-7 /Users/kemalceliktas/Desktop/FlutterNewVersion/erp_project/build/printing/generated/res/resValues/release
+net.nfet.flutter.printing-rs-8 /Users/kemalceliktas/Desktop/FlutterNewVersion/erp_project/build/printing/generated/res/rs/release
+net.nfet.flutter.printing-mergeReleaseResources-9 /Users/kemalceliktas/Desktop/FlutterNewVersion/erp_project/build/printing/intermediates/incremental/release/mergeReleaseResources/merged.dir
+net.nfet.flutter.printing-mergeReleaseResources-10 /Users/kemalceliktas/Desktop/FlutterNewVersion/erp_project/build/printing/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+net.nfet.flutter.printing-merged_res-11 /Users/kemalceliktas/Desktop/FlutterNewVersion/erp_project/build/printing/intermediates/merged_res/release

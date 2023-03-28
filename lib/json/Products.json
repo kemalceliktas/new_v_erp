@@ -1,0 +1,23 @@
+{
+  "RECORDS": [
+    {
+      "ID": 135,
+      "Barcode": "9786256372016",
+      "CategoryID": 7,
+      "ManufacturerID": 5,
+      "UnitID": 3,
+      "Title": "205/55R16 91V Goodyear EAGLE SPORT 2 583930",
+      "Description": null,
+      "ImageURL": "assets/img/products/2897620784.jpg",
+      "Price": 2250.0,
+      "SellingPrice": 1110.0,
+      "Stock": 0,
+      "UnitValue": 4.0,
+      "Year": 2022,
+      "Status": 1,
+      "UsageStatus": 0,
+      "CreateDate": "9/2/2023 00:41:50",
+      "UpdateDate": "24/2/2023 11:33:24"
+    }
+  ]
+}

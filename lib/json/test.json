@@ -1,0 +1,22 @@
+
+
+[
+    {
+        "id":"xxxxxx121212xx",
+        "barcode":"44444412",
+        "adet":"2",
+        "price":"100"
+    },
+    {
+        "id":"xxxxxx121212xx",
+        "barcode":"44444455",
+        "adet":"2",
+        "price":"100"
+    },
+    {
+        "id":"xxxxxx121212xx",
+        "barcode":"44444422",
+        "adet":"2",
+        "price":"100"
+    }
+]

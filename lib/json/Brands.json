@@ -1,0 +1,12 @@
+{
+  "RECORDS": [
+    {
+      "ID": 44,
+      "Name": "BMW",
+      "Logo": "assets/img/brands/2216024829.jpg",
+      "Status": 1,
+      "CreateDate": "10/1/2023 00:47:22",
+      "UpdateDate": "10/1/2023 00:58:59"
+    }
+  ]
+}
