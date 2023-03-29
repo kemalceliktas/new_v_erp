@@ -1,24 +1,24 @@
 # erp_project
 
-<h2>Flutter Sipariş Yönetimi Uygulaması</h2>
-<p>Bu Flutter uygulaması, üye olup giriş yaptıktan sonra kendi carilerinizi, markalarınızı ve ürünlerinizi oluşturmanıza olanak tanır. Oluşturduğunuz ürünlerle sepet oluşturup siparişlerinizi girebilir ve siparişlerinizi PDF olarak yazdırabilirsiniz. Siparişlerinizi tamamladığınızda, tamamlandı olarak işaretleyerek aktif ve tamamlanmış siparişlerinizi görüntüleyebilirsiniz. Uygulamadan çıkıp girseniz bile, sipariş adetlerini kaydedebilirsiniz.</p>
-<h3>Özellikler</h3>
+<h2>Flutter Order Management App</h2>
+<p>This Flutter application allows you to create your own customers, brands, and products after signing up and logging in. You can add products to your cart and enter your orders with the products you created, and you can print your orders as PDF. When you complete your orders, you can view your active and completed orders by marking them as completed. You can also save your order quantities even if you exit and enter the application.</p>
+<h3>Features</h3>
 <ul>
-  <li>Kullanıcı hesap oluşturma ve giriş yapma</li>
-  <li>Cari, marka ve ürün oluşturma</li>
-  <li>Ürünleri sepete ekleme ve siparişlerin girilmesi</li>
-  <li>Siparişlerin PDF olarak yazdırılması</li>
-  <li>Tamamlanmış ve aktif siparişlerin görüntülenmesi</li>
-  <li>Sipariş adetlerinin kaydedilmesi</li>
+  <li>User account creation and login</li>
+  <li>Customer, brand, and product creation</li>
+  <li>Adding products to cart and entering orders</li>
+  <li>Printing orders as PDF</li>
+  <li>Viewing completed and active orders</li>
+  <li>Saving order quantities</li>
 </ul>
-<h3>Kullanılan Teknolojiler</h3>
+<h3>Technologies Used</h3>
 <ul>
   <li>Flutter</li>
   <li>Hive local database</li>
   <li>Google Sheets API</li>
 </ul>
-<h3>Kullanım Kılavuzu</h3>
-<p>Uygulamayı kullanmak için öncelikle üye olmanız gerekiyor. Daha sonra carilerinizi, markalarınızı ve ürünlerinizi oluşturabilirsiniz. Oluşturduğunuz ürünlerle sepet oluşturup siparişlerinizi girebilir ve siparişlerinizi PDF olarak yazdırabilirsiniz. Siparişlerinizi tamamladığınızda, tamamlandı olarak işaretleyerek aktif ve tamamlanmış siparişlerinizi görüntüleyebilirsiniz. Sipariş adetleriniz uygulamadan çıkıp girseniz bile kaydedilir.</p>
+<h3>User Guide</h3>
+<p>To use the application, you need to sign up first. After that, you can create your own customers, brands, and products. You can add products to your cart and enter your orders with the products you created, and you can print your orders as PDF. When you complete your orders, you can view your active and completed orders by marking them as completed. Your order quantities are saved even if you exit and enter the application.</p>
 
 ## Getting Started
 
